@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on ...
 I am working on studying the Java language.
