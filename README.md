@@ -1,6 +1,6 @@
 ## Hi there 👋
 
 ### 🌱 I’m currently learning ...
-I am working on studying the Java language.
+I am working on studying the HTML.CSS.
 ### 📫 How to reach me: ...
 Please contact kotoha.saki.14@gmail.com
